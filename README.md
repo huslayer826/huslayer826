@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:2f8f7f&section=header&reversal=true&text=Omar%20Yousef&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20Security%20%7C%20Software%20Engineer%20%7C%20Cybersecurity%20%40%20USF&descSize=22&descAlignY=60&animation=fadeIn" alt="Omar Yousef" width="100%" />
+  <img src="./banner.svg" alt="Omar Yousef: AI Security Researcher // Software Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://omaryousef.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/omaryousefusf/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:oyousef2007@gmail.com"><img src="https://img.shields.io/badge/Email-3AA692?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://omaryousef.com"><img src="https://img.shields.io/badge/Portfolio-0A0E14?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/omaryousefusf/"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:oyousef2007@gmail.com"><img src="https://img.shields.io/badge/Email-14B87A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3500&pause=1200&color=3AA692&center=true&vCenter=true&width=700&lines=Breaking+AI+systems+so+they+ship+safer.;Building+tools+for+AI+coding+agents.;Security+researcher.+2x+CVE+reporter." alt="Breaking AI systems so they ship safer." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1200&color=3DFF9E&center=true&vCenter=true&width=700&lines=%3E+Breaking+AI+systems+so+they+ship+safer.;%3E+Building+tools+for+AI+coding+agents.;%3E+Security+researcher.+2x+CVE+reporter." alt="Breaking AI systems so they ship safer." />
 </p>
 
 ## Hey, I'm Omar
@@ -56,10 +56,7 @@ Right now I'm especially interested in:
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=flat-square" alt="CySA+" />
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square" alt="Security+" />
   <img src="https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=flat-square" alt="A+" />
-  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-3AA692?style=flat-square" alt="ISC2 CC" />
+  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-14B87A?style=flat-square" alt="ISC2 CC" />
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS CCP" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2f8f7f,50:1e3a8a,100:0f172a&section=footer" width="100%" alt="" />
-</p>
