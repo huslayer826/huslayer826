@@ -1,0 +1,65 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:2f8f7f&section=header&reversal=true&text=Omar%20Yousef&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20Security%20%7C%20Software%20Engineer%20%7C%20Cybersecurity%20%40%20USF&descSize=22&descAlignY=60&animation=fadeIn" alt="Omar Yousef" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://omaryousef.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/omaryousefusf/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:oyousef2007@gmail.com"><img src="https://img.shields.io/badge/Email-3AA692?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3500&pause=1200&color=3AA692&center=true&vCenter=true&width=700&lines=Breaking+AI+systems+so+they+ship+safer.;Building+tools+for+AI+coding+agents.;Security+researcher.+2x+CVE+reporter." alt="Breaking AI systems so they ship safer." />
+</p>
+
+## Hey, I'm Omar
+
+I'm a Cybersecurity student at the **University of South Florida**, a **Software Engineer at Snorkel AI**, a **Critical Infrastructure Analyst at Cyber Florida**, and an **AI Security researcher** in the NSF CISE REU program. I work where AI and security meet: I build agent tooling, attack models, and find bugs in real software.
+
+Right now I'm especially interested in:
+
+- adversarial attacks on AI systems, especially generative attacks on biometric authentication
+- safe test harnesses for autonomous AI agents, including ICS / critical infrastructure environments
+- orchestration for AI coding agents in Rust + TypeScript
+- vulnerability research on open-source AI frameworks
+
+## Highlights
+
+- 🛡️ **2 CVEs in PraisonAI** (8.3k★): `CVE-2026-57124`, a critical unauthenticated RCE (CVSS 9.8), and `CVE-2026-55534`, an auth bypass (CVSS 8.6)
+- 🧪 **Adversarial face research**: benchmarked 1,200 generated faces across 4 recognition models and 2 defenses, **14,400 decisions** in total (PyTorch, diffusion, FLUX, LoRA)
+- 🏆 **Hackathons**: 🥇 HackABull 2026 · 🥈 HackUSF 2026 · 4th at Hack The Bay 2026
+- 🖥️ Monitored **225,000+ endpoints** as Lead IT Security Intern at the School District of Palm Beach County
+
+## Featured Projects
+
+| Project | What it is |
+| --- | --- |
+| [**Bubble Harness**](https://github.com/huslayer826/bubble-harness-1.0) | Rust/TypeScript desktop control plane that orchestrates parallel AI coding agents (Codex, Claude, OpenCode) with Git worktree isolation. **500+ users.** |
+| [**Spotted**](https://github.com/huslayer826/Spotted-HackABull2026) | 🥇 HackABull. AI camera security platform that detects theft in real time and triggers automated voice deterrence. |
+| [**Raven**](https://github.com/huslayer826/Raven) | 🥈 HackUSF. Sandboxed malware analysis with multi-agent triage, IOC extraction and enrichment, and threat classification. |
+| [**Fragments**](https://github.com/huslayer826/Fragments) | Hack The Bay. AI network security platform using ARP/Nmap scanning, device fingerprinting, CVE mapping, and RAG risk scoring. |
+| [**AccessGraph**](https://github.com/huslayer826/accessgraph) | Offline-first AWS IAM attack-path analysis engine. |
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,rust,ts,js,bash,powershell,mysql,html,css,react,tauri,aws,azure,linux,git&perline=8" alt="Tech stack" />
+</p>
+
+**Security:** CrowdStrike · Carbon Black · ThreatLocker · Gurucul SIEM · Nessus · NodeZero · Burp Suite · Metasploit · Nmap · Wireshark · Snort · Kali Linux
+
+**AI tooling:** Claude Code · Codex · Cursor · Hugging Face · Diffusion / FLUX / LoRA
+
+## Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=flat-square" alt="CySA+" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square" alt="Security+" />
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=flat-square" alt="A+" />
+  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-3AA692?style=flat-square" alt="ISC2 CC" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS CCP" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2f8f7f,50:1e3a8a,100:0f172a&section=footer" width="100%" alt="" />
+</p>
