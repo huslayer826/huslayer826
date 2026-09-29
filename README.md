@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Omar Yousef: AI Security Researcher // Software Engineer" width="100%" />
+  <img src="./banner.png" alt="Snorkel AI: The Frontier AI Data Lab" width="100%" />
 </p>
 
 <p align="center">
