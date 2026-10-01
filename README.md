@@ -23,13 +23,6 @@ Right now I'm especially interested in:
 - orchestration for AI coding agents in Rust + TypeScript
 - vulnerability research on open-source AI frameworks
 
-## Highlights
-
-- 🛡️ **2 CVEs in PraisonAI** (8.3k★): `CVE-2026-57124`, a critical unauthenticated RCE (CVSS 9.8), and `CVE-2026-55534`, an auth bypass (CVSS 8.6)
-- 🧪 **Adversarial face research**: benchmarked 1,200 generated faces across 4 recognition models and 2 defenses, **14,400 decisions** in total (PyTorch, diffusion, FLUX, LoRA)
-- 🏆 **Hackathons**: 🥇 HackABull 2026 · 🥈 HackUSF 2026 · 4th at Hack The Bay 2026
-- 🖥️ Monitored **225,000+ endpoints** as Lead IT Security Intern at the School District of Palm Beach County
-
 ## Featured Projects
 
 | Project | What it is |
