@@ -25,13 +25,12 @@ Right now I'm especially interested in:
 
 ## Featured Projects
 
-| Project | What it is |
-| --- | --- |
-| [**Bubble Harness**](https://github.com/huslayer826/bubble-harness-1.0) | Rust/TypeScript desktop control plane that orchestrates parallel AI coding agents (Codex, Claude, OpenCode) with Git worktree isolation. **500+ users.** |
-| [**Spotted**](https://github.com/huslayer826/Spotted-HackABull2026) | 🥇 HackABull. AI camera security platform that detects theft in real time and triggers automated voice deterrence. |
-| [**Raven**](https://github.com/huslayer826/Raven) | 🥈 HackUSF. Sandboxed malware analysis with multi-agent triage, IOC extraction and enrichment, and threat classification. |
-| [**Fragments**](https://github.com/huslayer826/Fragments) | Hack The Bay. AI network security platform using ARP/Nmap scanning, device fingerprinting, CVE mapping, and RAG risk scoring. |
-| [**AccessGraph**](https://github.com/huslayer826/accessgraph) | Offline-first AWS IAM attack-path analysis engine. |
+| Project | Recognition | What it is |
+| --- | --- | --- |
+| [**Bubble Harness**](https://github.com/huslayer826/bubble-harness-1.0) | 🚀 **500+ users** | Rust/TypeScript desktop control plane that orchestrates parallel AI coding agents (Codex, Claude, OpenCode) with Git worktree isolation. |
+| [**Spotted**](https://github.com/huslayer826/Spotted-HackABull2026) | 🥇 **1st place**, HackABull 2026 | AI camera security platform that detects theft in real time and triggers automated voice deterrence. |
+| [**Raven**](https://github.com/huslayer826/Raven) | 🥈 **2nd place**, HackUSF 2026 | Sandboxed malware analysis with multi-agent triage, IOC extraction and enrichment, and threat classification. |
+| [**Fragments**](https://github.com/huslayer826/Fragments) | 🏅 **4th place**, Hack The Bay 2026 | AI network security platform using ARP/Nmap scanning, device fingerprinting, CVE mapping, and RAG risk scoring. |
 
 ## Tech Stack
 
